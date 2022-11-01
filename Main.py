@@ -8,6 +8,7 @@ class Solution:
           rear: An integer which denotes the index of the element at the rear of the queue.
           size: An integer which represents the size of stack and queue.
       """
+    
 
     # Write your code here
     def __init__(self, size):
